@@ -1,6 +1,24 @@
-# 💫 About Me:
-I’m currently collaborating with a startup project that evolved from fresumes.com to hostresumes.com, working on backend logic, data handling, and overall site improvements<br>I’m looking for web development and data scraping work<br>I help companies improve their websites or automate repetitive tasks<br>I’m currently learning web development with Next.js<br>Ask me about web solutions or automating repetitive tasks<br>
+## 👨‍💻 About Me
 
+👨‍💻 I’m a **Web Developer** focused on building web applications, data scraping, and automation.
+
+👀 I’m interested in:
+- Building and improving **web applications** 🌐
+- **Data scraping** and structured data extraction 📊
+- Automating **repetitive tasks and workflows** ⚙️
+- Fixing, optimizing, and scaling existing systems 🚀
+
+🌱 I’m currently learning:
+- **Next.js**
+- Full-stack development with **Node.js, React, MongoDB**
+- Backend logic, data handling, and clean code practices
+
+💞️ I’m looking to collaborate on:
+- **Web development projects**
+- **Data scraping and automation** work
+- Startup or real-world projects needing practical solutions
+
+🛠️ Currently collaborating on a startup project that evolved from **fresumes.com** to **hostresumes.com**, working on backend logic, data handling, and overall site improvements.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Sahib Hussain) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sahibh8239@gmail.com) 
